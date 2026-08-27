@@ -8,7 +8,7 @@ India | Open to opportunities
 
 ## About
 
-I build scalable mobile applications and AI-enhanced developer tools. With published iOS apps and 19+ open-source repositories, I focus on clean architecture, performant code, and shipping products that solve real problems.
+I build scalable mobile applications and AI-enhanced developer tools. With published iOS apps and 19+ open-source repositories, I focus on clean architecture, performant code, and shipping products th[...]
 
 ## Tech Stack
 
@@ -21,11 +21,11 @@ I build scalable mobile applications and AI-enhanced developer tools. With publi
 
 | Project | Description |
 |---------|-------------|
-| [CLI-rn-expo-skill](https://github.com/Ravinder82/CLI-rn-expo-skill) | Powerful CLI tool for React Native and Expo projects |
+| [bitefix](https://github.com/Ravinder82/bitefix) | Fast and efficient bug tracking and fixing tool |
+| [phone-cleanup](https://github.com/Ravinder82/phone-cleanup) | Mobile app optimization and cleanup utility |
 | [ExpenseMobileApp](https://github.com/Ravinder82/ExpenseMobileApp) | React Native expense tracker with charts and budgets |
 | [landing-page-generator-published](https://github.com/Ravinder82/landing-page-generator-published) | AI-powered landing page generator |
 | [published-image-compress](https://github.com/Ravinder82/published-image-compress) | High-performance image compression tool |
-| [VibeContentPro](https://github.com/Ravinder82/VibeContentPro) | AI-powered content marketing platform |
 
 ## GitHub Stats
 
