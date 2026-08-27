@@ -8,7 +8,7 @@ India | Open to opportunities
 
 ## About
 
-I build scalable mobile applications and AI-enhanced developer tools. With published iOS apps and 19+ open-source repositories, I focus on clean architecture, performant code, and shipping products th[...]
+I build scalable mobile applications and AI-enhanced developer tools. With published iOS apps and 19+ open-source repositories, I focus on clean architecture, performant code, and shipping products that solve real problems.
 
 ## Tech Stack
 
@@ -21,9 +21,9 @@ I build scalable mobile applications and AI-enhanced developer tools. With publi
 
 | Project | Description |
 |---------|-------------|
-| [bitefix](https://github.com/Ravinder82/bitefix) | Fast and efficient bug tracking and fixing tool |
-| [phone-cleanup](https://github.com/Ravinder82/phone-cleanup) | Mobile app optimization and cleanup utility |
-| [ExpenseMobileApp](https://github.com/Ravinder82/ExpenseMobileApp) | React Native expense tracker with charts and budgets |
+| [Keyhive_Mobile](https://github.com/Ravinder82/Keyhive_Mobile) | Keyhive mobile application — production-grade mobile app (React Native) |
+| [Expense_Tracker_App](https://github.com/Ravinder82/Expense_Tracker_App) | React Native expense tracker with charts and budgets |
+| [Phone-Clean-Mobile](https://github.com/Ravinder82/Phone-Clean-Mobile) | Mobile app optimization and cleanup utility |
 | [landing-page-generator-published](https://github.com/Ravinder82/landing-page-generator-published) | AI-powered landing page generator |
 | [published-image-compress](https://github.com/Ravinder82/published-image-compress) | High-performance image compression tool |
 
@@ -35,7 +35,7 @@ I build scalable mobile applications and AI-enhanced developer tools. With publi
 ## Connect
 
 - GitHub: [@Ravinder82](https://github.com/Ravinder82)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [1294ravinder@gmail.com](mailto:1294ravinder@gmail.com)
 
 ---
 
