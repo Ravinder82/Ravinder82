@@ -21,6 +21,7 @@ I build scalable mobile applications and AI-enhanced developer tools. With publi
 
 | Project | Description |
 |---------|-------------|
+| [jev-flash-router](https://github.com/Ravinder82/jev-flash-router) | **MCP Server** — Zero-token-output decision router powered by TypeSafe Jev for AI agents |
 | [Keyhive_Mobile](https://github.com/Ravinder82/Keyhive_Mobile) | Keyhive mobile application — production-grade mobile app (React Native) |
 | [Expense_Tracker_App](https://github.com/Ravinder82/Expense_Tracker_App) | React Native expense tracker with charts and budgets |
 | [Phone-Clean-Mobile](https://github.com/Ravinder82/Phone-Clean-Mobile) | Mobile app optimization and cleanup utility |
