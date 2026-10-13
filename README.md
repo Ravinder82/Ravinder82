@@ -6,6 +6,8 @@
 
 ## 🚀 Featured Project: [DayPilot](https://github.com/Ravinder82/DayPilot)
 
+![DayPilot Banner](https://raw.githubusercontent.com/Ravinder82/DayPilot/master/dist/previews/banner.png)
+
 A native macOS app that turns an unstructured workday into a **60-second spoken briefing** and a **friction-free morning launchpad**.
 
 | Feature | Description |
@@ -22,6 +24,9 @@ A native macOS app that turns an unstructured workday into a **60-second spoken 
 ```bash
 make install  # → /Applications/DayPilot.app (signed, Dock + Launchpad)
 ```
+
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github)](https://github.com/Ravinder82/DayPilot)
+[![Stars](https://img.shields.io/github/stars/Ravinder82/DayPilot?style=social)](https://github.com/Ravinder82/DayPilot)
 
 ---
 
