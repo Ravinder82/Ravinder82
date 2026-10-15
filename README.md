@@ -17,16 +17,6 @@ I build scalable mobile applications and AI-enhanced developer tools. With publi
 **AI/LLM:** OpenAI API, Prompt Engineering, AI-powered automation
 **Tools:** GitHub Actions, Chrome Extensions, CLI tools
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [jev-flash-router](https://github.com/Ravinder82/jev-flash-router) | **MCP Server** — Zero-token-output decision router powered by TypeSafe Jev for AI agents |
-| [Expense_Tracker_App](https://github.com/Ravinder82/Expense_Tracker_App) | React Native expense tracker with charts and budgets |
-| [Phone-Clean-Mobile](https://github.com/Ravinder82/Phone-Clean-Mobile) | Mobile app optimization and cleanup utility |
-| [landing-page-generator-published](https://github.com/Ravinder82/landing-page-generator-published) | AI-powered landing page generator |
-| [published-image-compress](https://github.com/Ravinder82/published-image-compress) | High-performance image compression tool |
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravinder82&show_icons=true&theme=dark)
