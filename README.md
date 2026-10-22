@@ -72,56 +72,6 @@ These launches reflect my focus on not just writing code, but designing and ship
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravinder82&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravinder82&layout=compact&theme=dark)
 
-## Best Repos to Pin
-
-These are strong profile candidates because they tell a clear story about your work:
-
-- DayPilot — AI productivity app + desktop workflow assistant
-- burnfuse — AI token burn monitoring and cost-control tool
-- CLI-rn-expo-skill — React Native/Expo automation tooling
-- AI-DigiProducts-Business-Analyser — AI business intelligence product
-- VibeContentPro — AI marketing/content SaaS platform
-- MeditationAI — AI-first wellness product concept
-- ExpenseMobileApp — practical mobile utility app with real user value
-- CineRating — product-style app with data integration and UX
-
-## Suggested Repo Descriptions for Pinned Projects
-
-Use these as clean, professional descriptions for your pinned repositories:
-
-- DayPilot — AI productivity workspace with planning, automation, and file orchestration.
-- burnfuse — AI cost guardrail tool that tracks API spend and prevents runaway cloud usage.
-- CLI-rn-expo-skill — Expo/React Native CLI toolkit for faster app scaffolding and native workflows.
-- AI-DigiProducts-Business-Analyser — AI-powered business intelligence platform for analyzing digital products and growth opportunities.
-- VibeContentPro — AI marketing assistant for content planning, scheduling, and multi-platform publishing.
-- MeditationAI — AI-guided meditation and mindfulness app focused on personalized experiences.
-- ExpenseMobileApp — React Native expense tracker with smart budgeting and category analytics.
-- CineRating — movie discovery and review platform with ratings, recommendations, and social engagement.
-
-## What makes a strong developer profile
-
-The profiles that stand out usually do these 4 things well:
-
-1. They lead with shipped work, not just technologies.
-2. They show real products and outcomes, not only toy examples.
-3. They keep repo descriptions specific and business-focused.
-4. They make the profile feel like a product: visual, clear, and easy to scan.
-
-A profile becomes memorable when it answers:
-- What do you build?
-- What kind of problems do you solve?
-- What have you already shipped?
-- Why should someone hire or collaborate with you?
-
-## Current Focus
-
-I’m building products at the intersection of:
-- Mobile apps
-- AI workflows
-- TypeScript full-stack systems
-- Product-driven engineering
-- Real user-facing experiences
-
 ## Connect
 
 - GitHub: [@Ravinder82](https://github.com/Ravinder82)
