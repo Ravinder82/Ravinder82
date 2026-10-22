@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/India-Open%20to%20Opportunities-0A84FF?style=for-the-badge" alt="India Open to opportunities" />
-  <img src="https://img.shields.io/badge/Published%20iOS%20Apps-2-Live%20on%20App%20Store-FF6B6B?style=for-the-badge" alt="2 iOS apps live on App Store" />
-  <img src="https://komarev.com/ghpvc/?username=Ravinder82&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/2+iOS+Apps-Live+on+App+Store-FF6B6B?style=for-the-badge" alt="2 iOS apps live on App Store" />
+  <img src="https://img.shields.io/badge/Product-minded-Builder-10B981?style=for-the-badge" alt="Product-minded builder" />
 </p>
 
 <p align="center">
@@ -15,25 +15,34 @@
   <a href="mailto:1294ravinder@gmail.com"><img src="https://img.shields.io/badge/Email-1294ravinder%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-### Building products with code, product sense, and real-world shipping
+### Building products, not just apps.
 
-I’m a full-stack developer focused on building polished mobile apps, AI-powered tools, and scalable web experiences. I enjoy turning ideas into real products, from product strategy and UX to architecture, engineering, and deployment.
+I’m a product-minded full-stack developer building polished mobile apps, AI-powered tools, and scalable digital experiences. I enjoy turning ideas into real products — from user experience and product thinking to architecture, engineering, and launch.
 
-I currently ship work across:
-- React Native / Expo mobile apps
-- TypeScript and full-stack product builds
+I focus on:
+- React Native / Expo products for mobile
+- TypeScript-based full-stack builds
 - AI-powered workflows and automation
-- SaaS tools, productivity apps, and developer utilities
-- Apple App Store-ready iOS products
+- SaaS, productivity tools, and customer-facing apps
+- Shipping real products that users actually adopt
 
 ## Published iOS Apps
 
-Two of my apps are already live on the Apple App Store:
+Two apps I built are already live on the Apple App Store:
 
-- Driftzz — a mobile app focused on real user value, polished UX, and strong product execution.
-- Bitefix — a live iOS product built to solve a real user problem with a clean, app-store-ready experience.
+- Driftzz — product-focused iOS app built for a real user need, with strong UX and app-store-ready polish.
+- Bitefix — live mobile product designed to solve a practical problem with clean interaction design and solid engineering.
 
-These launches reflect my focus on not just writing code, but designing and shipping complete customer-facing digital products.
+These launches reflect my focus on shipping complete, customer-facing products rather than just code demos.
+
+## Core Strengths
+
+- Mobile-first product development
+- App design + UX thinking
+- AI product workflows and automation
+- React Native, Expo, TypeScript, Swift
+- Full-stack delivery from API to interface
+- Product strategy and execution mindset
 
 ## Tech Stack
 
@@ -56,16 +65,11 @@ These launches reflect my focus on not just writing code, but designing and ship
 
 ## Featured Work
 
-### Product + AI
-- AI-powered business analysis and digital product insights
-- AI content marketing and automation workflows
-- AI productivity / knowledge tools and agent-style product concepts
-- Landing page generators, prompt tools, and developer productivity apps
-
-### Mobile Apps
-- Cross-platform apps using React Native + Expo
-- App-store-ready iOS launches
-- Performance-conscious, clean-architecture mobile engineering
+- AI-powered business analysis and digital product intelligence
+- AI content, marketing, and workflow automation tools
+- Mobile apps built with React Native and Expo
+- Productivity tools and developer-focused utilities
+- Product-leaning experiments turned into usable software
 
 ## GitHub Highlights
 
